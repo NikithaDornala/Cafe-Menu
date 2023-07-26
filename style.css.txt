@@ -1,0 +1,83 @@
+body {
+     background-image: url(https://www.shutterstock.com/image-vector/breakfast-dishes-vector-background-morning-600w-1728069706.jpg);
+     font-family: sans-serif;
+     padding: 20px;
+     background-repeat:no-repeat;
+     background-size: 100% 103%;
+     margin-top: 12px;
+     margin-bottom: 12px;
+     margin-left: 100px;
+     margin-right: 100px;
+}
+
+h1 {
+     font-size: 25px;
+     margin-top: 10px;
+     margin-bottom: 12px;
+}
+
+h2 {
+     margin-top: 10px;
+     font-size: 30px;
+}
+
+h1, h2, p{
+     text-align: center;
+}
+
+
+
+.menu{
+     width: 70%;
+     background-color: #F5F5F5;
+     margin-left: auto;
+     margin-right: auto;
+     padding: 20px;
+     max-width: 500px;
+     margin-top: 10px;
+}
+
+hr {
+     height: 2px;
+     background-color: brown;
+     border-color: brown;
+}
+
+.bottom-line {
+     margin-top: 25px;
+}
+
+h1{
+     font-family: Papyrus, fantasy;
+}
+
+h2 {
+     font-family: Courier New, monospace;
+}
+
+.item p{
+     display: inline-block;
+     margin-top: 5px;
+     margin-bottom: 5px;
+     font-size: 18px;
+}
+
+.flavor, .shakes, .waffles {
+     text-align: left;
+     width: 75%;
+}
+
+.price {
+     text-align: right;
+     width: 25%;
+}
+
+/* FOOTER */
+
+footer {
+     font-size: 14px;
+}
+
+.address {
+     margin-bottom: 5px;
+}

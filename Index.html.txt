@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+         <meta charset="utf-8" />
+         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+         <title>CAFE-MENU</title>
+         <link href="style.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div class="menu">
+            <main>
+                 <h1>PARADIS CAFE</h1>
+                 <hr>
+                <section>
+                 <h2>Coffee</h2>d
+                    <article class="item">
+                      <p class="flavor">Expresso</p><p class="price">69</p>
+                    </article>
+                    <article class="item">
+                     <p class="flavor">Black Coffee</p><p class="price">79</p>
+                    </article>
+                    <article class="item">
+                     <p class="flavor">Filter Coffee</p><p class="price">89</p>
+                    </article>
+                    <article class="item">
+                     <p class="flavor">Double expresso</p><p class="price">119</p>
+                    </article>
+                    <article class="item">
+                     <p class="flavor">Cafe latte</p><p class="price">139</p>
+                    </article>
+                    <article class="item">
+                     <p class="flavor">Cafe Mocha</p><p class="price">159</p>
+                    </article>
+                </section>
+                <section>
+                 <h2>Shakes</h2>
+                    <article class="item">
+                     <p class="shakes">Orea thick shake</p><p class="price">170</p>
+                    </article>
+                    <article class="item">
+                     <p class="shakes">Kitkat Thick shake</p><p class="price">170</p>
+                    </article>
+                    <article class="item">
+                     <p class="shakes">Nutella brownie shake</p><p class="price">180</p>
+                    </article>
+                    <article class="item">
+                     <p class="shakes">Belgium Chocolate</p><p class="price">210</p>
+                    </article>
+                    <article class="item">
+                     <p class="shakes">Choco brownie</p><p class="price">210</p>
+                    </article>
+                    <article class="item">
+                     <p class="shakes">Orea Hazelnut</p><p class="price">210</p>
+                    </article>
+                </section>
+                <section>
+                 <h2>Waffles</h2>
+                    <article class="item">
+                     <p class="waffles">Red velvet</p><p class="price">149</p>
+                    </article>
+                    <article class="item">
+                     <p class="waffles">Dark and white chocolate</p><p class="price">169</p>
+                    </article>
+                    <article class="item">
+                     <p class="waffles">Triple chocolate</p><p class="price">179</p>
+                    </article>
+                    <article class="item">
+                     <p class="waffles">Dark and red velvet</p><p class="price">179</p>
+                    </article>
+                    <article class="item"> 
+                     <p class="waffles">Nuttela chocolate</p><p class="price">179</p>
+                    </article>
+                    <article class="item">
+                     <p class="waffles">Ferro rocher Waffle</p><p class="price">199</p>
+                    </article>
+                </section>
+            </main>
+             <hr class="bottom-line">
+            <footer>
+             <p class="address">Indulge in the artistry of flavor, where every sip and bite tells a story</p>
+            </footer>
+        </div>
+    </body>
+</html>
